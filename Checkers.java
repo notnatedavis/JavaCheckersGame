@@ -9,7 +9,7 @@ package core;
  * This is a Checkers class within the core package making use 
  * of CheckersTextConsole class within the 'ui' package.
  * 
- * @author xxx4am
+ * @author notnatedavis
  * @version Build Jan 21, 2024
  * package core
  */
