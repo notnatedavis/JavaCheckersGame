@@ -11,7 +11,7 @@ import java.util.Scanner; // scanner
  * This is a CheckersTextConsole class within the ui package making use 
  * of Checkers class within the core package.
  * 
- * @author xxx4am
+ * @author notnatedavis
  * @version Build Jan 21, 2024
  * package ui
  */
